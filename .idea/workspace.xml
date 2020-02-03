@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44c6ebc8-7fe4-434c-95de-6132c2aab617" name="Default Changelist" comment="set up repository connection in phpstorm">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inc/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <workItem from="1580512039056" duration="8042000" />
       <workItem from="1580523592220" duration="104000" />
       <workItem from="1580523723841" duration="38000" />
-      <workItem from="1580761172789" duration="1881000" />
+      <workItem from="1580761172789" duration="2856000" />
     </task>
     <task id="LOCAL-00001" summary="set up repository connection in phpstorm">
       <created>1580436957201</created>
@@ -84,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580436957201</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="set up repository connection in phpstorm">
+      <created>1580765431202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580765431202</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,10 +110,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="249" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580435247993" />
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1580765388882">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1580766497969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580765388882" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580766497969" />
     <state x="709" y="269" key="FileChooserDialogImpl" timestamp="1580761438480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
