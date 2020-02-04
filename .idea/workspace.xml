@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44c6ebc8-7fe4-434c-95de-6132c2aab617" name="Default Changelist" comment="set up repository connection in phpstorm">
+    <list default="true" id="30547d51-51f8-4ac4-9081-238f3a161204" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,113 +17,57 @@
       <executable />
     </execution>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>E:\Treehouse Files\Unit1</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
-    <include_path>
-      <path value="$PROJECT_DIR$" />
-    </include_path>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="18" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
-  </component>
-  <component name="ProjectId" id="1X8kYzU8SJV8VpfHyJNAnZcU5zo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1XJrHHi9m7GE7fbd5mYzWLFcIFG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Web Development/DC Church" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44c6ebc8-7fe4-434c-95de-6132c2aab617" name="Default Changelist" comment="" />
-      <created>1578962350906</created>
+      <changelist id="30547d51-51f8-4ac4-9081-238f3a161204" name="Default Changelist" comment="" />
+      <created>1580774948939</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578962350906</updated>
-      <workItem from="1578962352114" duration="108000" />
-      <workItem from="1578962484667" duration="712000" />
-      <workItem from="1578963210329" duration="962000" />
-      <workItem from="1580435164763" duration="88000" />
-      <workItem from="1580435262463" duration="1244000" />
-      <workItem from="1580512039056" duration="8042000" />
-      <workItem from="1580523592220" duration="104000" />
-      <workItem from="1580523723841" duration="38000" />
-      <workItem from="1580761172789" duration="2856000" />
+      <updated>1580774948939</updated>
+      <workItem from="1580774951807" duration="571000" />
     </task>
-    <task id="LOCAL-00001" summary="set up repository connection in phpstorm">
-      <created>1580436957201</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1580436957201</updated>
-    </task>
-    <task id="LOCAL-00002" summary="set up repository connection in phpstorm">
-      <created>1580765431202</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1580765431202</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="set up repository connection in phpstorm" />
-    <option name="LAST_COMMIT_MESSAGE" value="set up repository connection in phpstorm" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1580761538607">
+    <state x="552" y="179" key="#Deployment" timestamp="1580775432245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580761538607" />
-    <state x="667" y="111" key="#PHP" timestamp="1580761368079">
+    <state x="552" y="179" key="#Deployment/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580775432245" />
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1580775372974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="111" key="#PHP/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580761368079" />
-    <state x="640" y="249" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580435247993">
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580775372974" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1580775027146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="249" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580435247993" />
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1580766497969">
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580775027146" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1580775236954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580766497969" />
-    <state x="709" y="269" key="FileChooserDialogImpl" timestamp="1580761438480">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="709" y="269" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580761438480" />
-    <state x="2540" y="287" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@1920.26.1680.1010" timestamp="1580435669603" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1580765364010">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580765364010" />
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.26.1680.1010/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1580775236954" />
   </component>
 </project>
